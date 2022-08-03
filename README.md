@@ -1,4 +1,4 @@
-# 12 SQL: Employee Tracker
+# 13 Object-Relational Mapping (ORM): E-Commerce Back End
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -29,7 +29,6 @@ Mock-up
 ![Mockup](docs/13-orm-homework-demo-01.gif)
 ![Mockup](docs/13-orm-homework-demo-02.gif)
 ![Mockup](docs/13-orm-homework-demo-03.gif)
-
 
 ## Credits
 
